@@ -27,7 +27,7 @@
             この作品はkinectの非接触操作にSF的な感覚を感じたことから始まります。<br>
             このSF感を活かすために、マッドサイエンティストというキャラクターを考え、<br>
             そこから実験や細胞のイメージを膨らませ、それとマッチするような音もデザインしました。<br>
-             <img src="/noise.png" class="mt-5" alt="work1" >
+             <img src="/works/noise.png" class="mt-5" alt="work1" >
               </p>
               <p class="my-5  text-xs">
               <span class="red-text underline ">Detail</span><br>
@@ -40,7 +40,7 @@
                Puredataの構造は以下のようになっています。<br>
                 freeverbというアドオンを使って、モーターの駆動音ような音が<br>
                 反響するように設定しています。
-                <img src="/puredata.png" class="mt-5" alt="work1" >
+                <img src="/works/puredata.png" class="mt-5" alt="work1" >
 
 
             </p>
