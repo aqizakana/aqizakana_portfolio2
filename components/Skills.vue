@@ -33,10 +33,12 @@
             <h3 class="w-full underline ">Music</h3>
             <p class=" text-xs w-full">
             DTMソフトを用いた作編曲。
-            Bandcampで販売中。
+            <a class="after:content-['_↗'] hover:text-[#D76F30]
+            transition duration-150 ease-in-out" href="https://swater.bandcamp.com" target="blank">Bandcamp</a>で販売中。
             <span></span><br>
             Composing by Studio One.<br>
-            Selling some songs on Bandcamp.<br>
+            Selling some songs on  <a class="after:content-['_↗'] hover:text-[#D76F30]
+            transition duration-150 ease-in-out" href="https://swater.bandcamp.com" target="blank">Bandcamp</a>.<br>
           </p>
         </div>
         </div>
