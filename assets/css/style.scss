@@ -1,0 +1,39 @@
+html {
+    overflow-y: auto;
+}
+body {
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+    padding-bottom:10%; /* Ensure footer height */
+    background-color:rgba(15,30,20,1);
+    overflow: hidden;
+  }
+h1,h2,h3,p,li{
+    color:#FAF0DC;
+    font-family: Ubuntu,'ヒラギノ角ゴ ProN';
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.main{
+    //background-color:rgba(antiquewhite,0.1);
+    border-radius: 1rem;
+    padding:2%;
+}
+img{
+    border-radius:1rem;
+}
+//ボタン縦並び(今は使っていません)
+.btn-wrapper{
+  flex-direction: column;
+  align-items: start; /* ADD */
+  padding:20px;
+}
+//横書き(今は使っていません)
+.vertical{
+    writing-mode:vertical-rl;
+    font-family: monospace;
+    right:50%;
+}
