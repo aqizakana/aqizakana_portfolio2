@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <div class="w-4/6 " >
+    <div class="w-5/6 " >
       <div class="main mt-0">
         <h1 class="text-lg text-center pt-36">ABOUT</h1>
         <div class="flex 
@@ -63,7 +63,7 @@ h1{
 }
 
 img{
-  padding:5% ;
+  padding:8% ;
 }
 
 </style>        
