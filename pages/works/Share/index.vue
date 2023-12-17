@@ -5,7 +5,7 @@
             </h1>
             
             <div class="img-container mx-auto">
-                <img src="/works/最終確認.jpg" alt="work1" class="mx-auto">
+                <img src="/works/最終確認.jpg" alt="work1" class="w-5/6 mx-auto">
             </div>
             
             <p class="my-5">
