@@ -56,8 +56,8 @@
     });
     </script>
     <style scoped lang="scss">
-    .img-container img {
-    margin-bottom: 20px; /* お好みの間隔を指定 */
+ img {
+    margin-bottom: 5%; /* お好みの間隔を指定 */
     border-radius: 0.5rem;
     position: center;
 }
