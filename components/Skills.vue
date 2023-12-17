@@ -28,7 +28,7 @@
         </div> 
           <!--建築-->
         <div class="text-container flex flex-row">
-          <svg xmlns="http://www.w3.org/2000/svg" width="64" height="48" viewBox="0 0 24 24"><path fill="#FAEBD7" d="M18 18h-6v-5.79c-.66.61-1.53.99-2.5.99c-2.04 0-3.7-1.66-3.7-3.7a3.7 3.7 0 0 1 3.7-3.7c2.04 0 3.7 1.66 3.7 3.7c0 .97-.38 1.84-.99 2.5H18m1-9H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2Z"/></svg>
+          <svg xmlns="http://www.w3.org/2000/svg" style="margin-left:0%;" width="64" height="48" viewBox="0 0 24 24"><path fill="#FAEBD7" d="M12.5 15q1.05 0 1.775-.725T15 12.5V7h3V5h-4v5.5q-.325-.25-.7-.375T12.5 10q-1.05 0-1.775.725T10 12.5q0 1.05.725 1.775T12.5 15ZM8 18q-.825 0-1.413-.588T6 16V4q0-.825.588-1.413T8 2h12q.825 0 1.413.588T22 4v12q0 .825-.588 1.413T20 18H8Zm-4 4q-.825 0-1.413-.588T2 20V6h2v14h14v2H4Z"/></svg>
           <div class="text-container flex flex-col ">
             <h3 class="w-full underline ">Music</h3>
             <p class=" text-xs w-full">
@@ -46,7 +46,7 @@
         <div class="flex flex-col items-start">
           <!--Music-->
         <div class="text-container flex flex-row ">
-          <svg xmlns="http://www.w3.org/2000/svg" style="margin-left:0%;" width="64" height="48" viewBox="0 0 24 24"><path fill="#FAEBD7" d="M12.5 15q1.05 0 1.775-.725T15 12.5V7h3V5h-4v5.5q-.325-.25-.7-.375T12.5 10q-1.05 0-1.775.725T10 12.5q0 1.05.725 1.775T12.5 15ZM8 18q-.825 0-1.413-.588T6 16V4q0-.825.588-1.413T8 2h12q.825 0 1.413.588T22 4v12q0 .825-.588 1.413T20 18H8Zm-4 4q-.825 0-1.413-.588T2 20V6h2v14h14v2H4Z"/></svg>
+          <svg xmlns="http://www.w3.org/2000/svg" width="64" height="48" viewBox="0 0 24 24"><path fill="#FAEBD7" d="M18 18h-6v-5.79c-.66.61-1.53.99-2.5.99c-2.04 0-3.7-1.66-3.7-3.7a3.7 3.7 0 0 1 3.7-3.7c2.04 0 3.7 1.66 3.7 3.7c0 .97-.38 1.84-.99 2.5H18m1-9H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2Z"/></svg>
           <div class="text-container flex flex-col" style="padding-left:0% ;" >
             <h3 class="w-full underline text ">Architecture</h3>
           <p class=" text-xs w-full" >
