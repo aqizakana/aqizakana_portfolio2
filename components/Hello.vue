@@ -4,7 +4,7 @@
       
       flex 
       justify-center
-      xl:w-6/6 md:w-3/3  sm:w-3/3 xs:w-3/3
+      w-6/6 
       xl:flex-row md:flex-row sm:flex-col xs:flex-col
       mx-auto Hello" 
       id="Hello">
