@@ -18,10 +18,12 @@
             <p class="my-5 text-xs">
               <span class="red-text underline ">Outline</span><br>
                 インタラクティブアート講義で制作した作品。<br>
-                コンセプトは「言語的意味の持たない数字を用いて意味のある言葉を象る」。<br>
-                日常の中のとりとめのない思考として、次々と切り替わる数字と、
-                その思考の中から<br>
-                話し言葉を形成する様子を表現しようとしたものです。<br>
+                コンセプトは「言語的意味の持たない数字を用いて意味のある言葉を象る」<br>
+                <NuxtLink class="after:content-['_↗'] hover:text-[#D76F30]
+                  transition duration-150 ease-in-out" to="moon" target="blank">
+            「文字としての月」</NuxtLink>では、本来意味がくっついている文字から意味を漂白することを<br>
+            目的としていましたが、この作品では、意味の比重が小さい数字を用いて、<br>
+            意味のある言葉を象ること、それも身近な言葉である挨拶を生み出すことを目的としています。<br>
                 </p>
                 <p class="my-5 text-xs">
                 <span class="red-text underline ">Detail</span><br>
@@ -29,6 +31,8 @@
                 操作にはblynk IoTを用いてArduino Unoを中継し、<br>
                 端末の操作によって、processingによる映像をリアルタイムに変化させる<br>
                 インタラクションを提案しました。<br>
+                操作すると機械音声の発話と共に、該当の位置の数字が1に固定されてます。<br>
+                これによって、無意識のカオスな思考から文字が浮かび上がるような表現を目指しました。<br>
 
             </p>
             <p class="my-5">
