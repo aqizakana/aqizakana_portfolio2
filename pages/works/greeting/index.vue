@@ -4,11 +4,9 @@
             <h1 class="text-xl pt-20 text-center">数字の中の挨拶
             </h1>
             <h3 class="text-1xl mt-4 text-center"></h3>
-            <div class="img-container">
-                
-            
-               
-                
+            <div class="img-container">               
+                <nuxt-img src="/works/NOVE1.jpg" alt="work1" class="w-5/6 mx-auto"></nuxt-img>
+                <nuxt-img src="/works/NOVE2.jpg" alt="work1" class="w-5/6 mx-auto"></nuxt-img>
                 <div class="flex justify-center mt-5 mb-5">
             <iframe class="rounded-lg w-full h-full" src="/works/23244001作品映像.mp4" title="YouTube video player" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
