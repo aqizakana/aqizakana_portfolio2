@@ -68,7 +68,7 @@ font-size: 1.2rem;
   .my-link{
     font-weight: 700;
     &:hover{
-      color: rgba(#FF6864,1.0);
+      color: rgba(#D76F30,1.0);
       transition: .3s ease-out;
     }
   }
