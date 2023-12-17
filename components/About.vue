@@ -10,7 +10,6 @@
            alt="portrate"
            style=""
            class="img w-3/5 invert-0 drop-shadow-md 
-           hue-rotate-60 blur-none
            snap-center rounded-2xl"
           />
           <div class="text-container">

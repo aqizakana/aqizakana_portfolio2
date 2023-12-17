@@ -33,7 +33,7 @@
           受講者の最終課題をまとめたブックレットを制作し、技術書展やboothで販売中。
           是非、ご覧ください。<br>
         </p>         
-            <p class=" my-5 text-xs"><NuxtLink class=" my-link" to="https://www.tmu.ac.jp" target="_blank">University Page</NuxtLink></p>
+            <p class=" my-5 text-xs"><NuxtLink class=" my-link" to="https://mojitoodoru.zine.sugimototatsuo.com" target="_blank">ZINE Page</NuxtLink></p>
          
         
       </div>
@@ -64,7 +64,7 @@ font-size: 1.2rem;
   .my-link{
     font-weight: 700;
     &:hover{
-      color: rgba(61,214,143,1.0);
+      color: rgba(#FF6864,1.0);
       transition: .3s ease-out;
     }
   }
