@@ -6,28 +6,28 @@
             <div class="main delay-75 mx-auto gap-3
              grid grid-cols-1 xl:grid-cols-3 md:grid-cols-2 place-content-center" 
             v-if=!isShow id="grid-layout">
-        <NuxtLink class="work-focus border-none  hover:border-dotted border-2 border-[#D76F30] rounded-2xl" id="work1" to="/works/moon">
+        <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work1" to="/works/moon">
            <nuxt-img preload src="/works/img1.png" alt="work1" />
         </NuxtLink>
       
-        <NuxtLink class="work-focus border-none  hover:border-dotted border-2 border-[#D76F30] rounded-2xl" id="work2" to="/works/metaball">
+        <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work2" to="/works/metaball">
             <nuxt-img preload src="/works/madscientist.jpg" alt="work2"  />
         </NuxtLink>
 
-        <NuxtLink class="work-focus border-none  hover:border-dotted border-2 border-[#D76F30] rounded-2xl" id="work3" to="/works/NOVE">
+        <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work3" to="/works/NOVE">
             <nuxt-img preload src="/works/NOVE/NOVE2.jpg" alt="work3" />  
         </NuxtLink>
         
-        <NuxtLink class="work-focus border-none  hover:border-dotted border-2 border-[#D76F30] rounded-2xl" id="work4" to="/works/greeting">
+        <NuxtLink class="work-focus border-none  hover:border-solid border-5 border-[#D76F30] rounded-2xl" id="work4" to="/works/greeting">
             <nuxt-img preload src="/works/LOVE.png" alt="work4" />  
         </NuxtLink>
         
-        <NuxtLink class="work-focus border-none  hover:border-dotted border-2 border-[#D76F30] rounded-2xl" id="work5" to="/works/Share">
+        <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work5" to="/works/Share">
             <nuxt-img preload src="/works/最終確認2.jpg" alt="work5" />  
         </NuxtLink>
       
         
-        <NuxtLink class="work-focus border-none  hover:border-dotted border-2 border-[#D76F30] rounded-2xl" id="work8" to="/works/AAC">
+        <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work8" to="/works/AAC">
             <nuxt-img preload src="/works/卒研/パース6.png" alt="work8" />  
         </NuxtLink>
     </div>   
