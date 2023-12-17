@@ -1,6 +1,6 @@
 <template>
     <div class="">
-      <div class="main2 w-4/6  mx-auto">
+      <div class="main2 w-5/6  mx-auto">
             <h1 class="text-xl pt-20 text-center">数字の中の挨拶
             </h1>
             <h3 class="text-1xl mt-4 text-center"></h3>
