@@ -27,10 +27,11 @@
               <p class="my-5 text-xs">
                 <span class="red-text underline ">Detail</span><br>
                 この美術館では、作品の収蔵よりも市民の制作、交流、展示会の場を主なスペースとして設計しています。<br>
-                西館を収蔵している作品を展示するスペース、東館を市民の制作の場とし、その中間のエリアを交流の場としました。<br>
+                西館を収蔵している作品を展示するスペース、東館を市民の制作の場とし、<br>
+                その中間のエリアを交流の場としました。<br>
                 外構計画はマンション群で埋められている臨海部に公園を作るようなイメージで、<br>
                 北から南、西から東の動線計画としました。<br>
-                <img src="/works/卒研/動線ダイアグラム.png" alt="work7" class="mt-10 gap-10" >
+                <img src="/works/卒研/2F平面図動線.png" alt="work7" class="mt-10 bg-gray-50 gap-10" >
                 <img src="/works/卒研/西棟断面図2.png" alt="work7" class="gap-10" >
                 <img src="/works/卒研/東棟断面図.png" alt="work7"  class="gap-10" >
 

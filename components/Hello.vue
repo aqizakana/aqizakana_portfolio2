@@ -5,7 +5,7 @@
       flex 
       justify-center
       w-6/6 
-      xl:flex-row md:flex-row sm:flex-col xs:flex-col
+      flex-col xl:flex-row md:flex-row sm:flex-col xs:flex-col
       mx-auto Hello" 
       id="Hello">
         <h1 class="xl:text-3xl md:text-2xl sm:text-2xl" id="Hello" >
