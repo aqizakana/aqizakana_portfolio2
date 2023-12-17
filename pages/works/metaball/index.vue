@@ -9,7 +9,7 @@
           
               <img src="/works/madscientist.jpg" alt="work1" >
               <div class="flex justify-center">
-          <iframe class=" w-full h-96" src="/works/mad.mp4" title="video player" 
+          <iframe class=" mx-auto h-96" src="/works/mad.mp4" title="video player" 
           frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
           allowfullscreen></iframe>
               </div>
@@ -22,7 +22,7 @@
             <span class="red-text underline ">Outline</span><br>
               インタラクティブアート講義で制作した作品。<br>
               コンセプトは「デバイスの非接触操作を活かしたSF的感覚を味わう」。<br>
-              手をカメラにかざすと、背景のメタボールが増殖し、エコーのきいたノイズが鳴り、
+              手をカメラにかざすと、背景のメタボールが増殖し、エコーのきいたノイズが鳴り、<br>
               細胞に何か悪いことをしているような体験ができます。<br>
             この作品はkinectの非接触操作にSF的な感覚を感じたことから始まります。<br>
             このSF感を活かすために、マッドサイエンティストというキャラクターを考え、<br>
@@ -38,7 +38,7 @@
                音はprocessingからOSC通信でPuredataへと手の座標を送り
                生成しています。<br>
                Puredataの構造は以下のようになっています。<br>
-                freeverbというアドオンを使って、モーターの駆動音ような音が<br>
+                freeverbというアドオンを使って、モーターの駆動音のような音が<br>
                 反響するように設定しています。
                 <img src="/works/puredata.png" class="mt-5" alt="work1" >
 

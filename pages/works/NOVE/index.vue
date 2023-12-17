@@ -8,7 +8,7 @@
                 <img src="/works/NOVE/NOVE1.jpg" alt="work1" >
                 <img src="/works/NOVE/NOVE2.jpg" alt="work1" >
                 <div class="flex justify-center mt-5 mb-10">
-            <iframe class=" w-full h-96 " src="/works/NOVE/NOVE3.mp4" title="video player" 
+            <iframe class="mx-auto h-96 " src="/works/NOVE/NOVE3.mp4" title="video player" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
             allowfullscreen></iframe>
                 </div>
@@ -33,7 +33,7 @@
                 この作品では、人の動きを滑らかに検知するために、<br>
                 KincetのDepth検知を用いています。<br>
                 反対側のスクリーンの人の動きをもう一方のスクリーンに反映することで、<br>
-                ただ、スクリーンの前を動くだけに留まらないインタラクションを実現できました。。<br>
+                ただ、スクリーンの前を動くだけに留まらないインタラクションを実現できました。<br>
                 加えて、電子音は環境音に機械音声を重ねたものを制作しました。<br>
                 2日間に350人以上の方にご来場頂けました。<br>
                 

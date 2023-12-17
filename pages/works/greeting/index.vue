@@ -7,7 +7,7 @@
             <div class="img-container">               
                 
                 <div class="flex justify-center mt-5 mb-5">
-            <iframe class="rounded-lg w-full h-96" src="/works/23244001作品映像.mp4" title="YouTube video player" 
+            <iframe class="mx-auto h-96" src="/works/23244001作品映像.mp4" title="YouTube video player" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
             allowfullscreen></iframe>
                 </div>
@@ -23,7 +23,7 @@
                   transition duration-150 ease-in-out" to="moon" target="blank">
             「文字としての月」</NuxtLink>では、本来意味がくっついている文字から意味を漂白することを<br>
             目的としていましたが、この作品では、意味の比重が小さい数字を用いて、<br>
-            意味のある言葉を象ること、それも身近な言葉である挨拶を生み出すことを目的としています。<br>
+            意味のある言葉を象ること、身近な言葉である挨拶を生み出すことを目的としています。<br>
                 </p>
                 <p class="my-5 text-xs">
                 <span class="red-text underline ">Detail</span><br>
