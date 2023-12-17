@@ -7,7 +7,7 @@
             <div class="img-container">               
                 
                 <div class="flex justify-center mt-5 mb-5">
-            <iframe class="rounded-lg w-full h-full" src="/works/23244001作品映像.mp4" title="YouTube video player" 
+            <iframe class="rounded-lg w-full h-96" src="/works/23244001作品映像.mp4" title="YouTube video player" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
             allowfullscreen></iframe>
                 </div>
