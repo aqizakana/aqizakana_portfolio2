@@ -5,8 +5,6 @@
             </h1>
             <h3 class="text-1xl mt-4 text-center"></h3>
             <div class="img-container">
-                
-            
                 <img src="/works/NOVE/NOVE1.jpg" alt="work1" >
                 <img src="/works/NOVE/NOVE2.jpg" alt="work1" >
                 <div class="flex justify-center mt-5 mb-10">
