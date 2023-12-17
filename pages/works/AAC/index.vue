@@ -1,6 +1,6 @@
 <template>
     <div class="">
-      <div class="main2 w-4/6  mx-auto">
+      <div class="main2 w-4/6 sm:w-3/6 md:w-1/3 xl:w-1/3 mx-auto">
             <h1 class="text-1xl pt-20 text-center mx-auto">Akashi Art Center</h1>
             
             <div class="img-container mx-auto">
