@@ -26,7 +26,7 @@
             意味のある言葉を象ること、身近な言葉である挨拶を生み出すことを目的としています。<br>
                 </p>
                 <p class="my-5 text-xs">
-                <span class="red-text underline ">Detail</span><br>
+                <span class="red-text underline mb-10">Detail</span><br>
                 映像はprocessingによって生成しました。<br>
                 操作にはblynk IoTを用いてArduino Unoを中継し、<br>
                 端末の操作によって、processingによる映像をリアルタイムに変化させる<br>
