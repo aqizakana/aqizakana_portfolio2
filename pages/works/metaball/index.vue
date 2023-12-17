@@ -1,7 +1,7 @@
 <template>
   <div class="">
-    <div class="main2 w-5/6 sm:w-3/6 md:w-1/3 xl:w-1/3 mx-auto">
-          <h1 class="text-xl text-center">悪の科学者になりたい。
+    <div class="main2 w-4/6  mx-auto">
+          <h1 class="text-xl text-center pt-20">悪の科学者になりたい。
           </h1>
           <h3 class="text-1xl mt-4 text-center"></h3>
           <div class="img-container">
@@ -9,7 +9,7 @@
           
               <img src="/works/madscientist.jpg" alt="work1" >
               <div class="flex justify-center">
-          <iframe class=" w-full　h-80" src="/works/mad.mp4" title="video player" 
+          <iframe class=" w-full h-80" src="/works/mad.mp4" title="video player" 
           frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
           allowfullscreen></iframe>
               </div>

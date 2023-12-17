@@ -6,19 +6,19 @@
             <div class="main delay-75 mx-auto gap-3
              grid grid-cols-1 xl:grid-cols-3 md:grid-cols-2 place-content-center" 
             v-if=!isShow id="grid-layout">
-        <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work1" to="/works/moon">
+        <NuxtLink class="work-focus border-none   rounded-2xl" id="work1" to="/works/moon">
            <nuxt-img preload src="/works/img1.png" alt="work1" />
         </NuxtLink>
       
-        <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work2" to="/works/metaball">
+        <NuxtLink class="work-focus border-none   rounded-2xl" id="work2" to="/works/metaball">
             <nuxt-img preload src="/works/madscientist.jpg" alt="work2"  />
         </NuxtLink>
 
-        <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work3" to="/works/NOVE">
+        <NuxtLink class="work-focus border-none   rounded-2xl" id="work3" to="/works/NOVE">
             <nuxt-img preload src="/works/NOVE/NOVE2.jpg" alt="work3" />  
         </NuxtLink>
         
-        <NuxtLink class="work-focus border-none  hover:border-solid border-5 border-[#D76F30] rounded-2xl" id="work4" to="/works/greeting">
+        <NuxtLink class="work-focus border-none  h rounded-2xl" id="work4" to="/works/greeting">
             <nuxt-img preload src="/works/LOVE.png" alt="work4" />  
         </NuxtLink>
         

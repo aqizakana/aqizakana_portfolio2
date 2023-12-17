@@ -1,7 +1,7 @@
 <template>
     <div class="">
-      <div class="main2 w-3/6 sm:w-3/6 md:w-1/3 xl:w-1/3 mx-auto">
-            <h1 class="text-xl pt-0 text-center">NOVE
+      <div class="main2 w-4/6 mx-auto">
+            <h1 class="text-xl pt-20 text-center">NOVE
             </h1>
             <h3 class="text-1xl mt-4 text-center"></h3>
             <div class="img-container">

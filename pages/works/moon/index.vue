@@ -1,7 +1,7 @@
 <template>
     <div class="">
-      <div class="main2 w-5/6 sm:w-3/6 md:w-1/3 xl:w-1/3 mx-auto">
-        <h1 class="text-xl  text-center">文字としての月</h1>
+      <div class="main2 w-4/6  mx-auto">
+        <h1 class="text-xl  text-center pt-20">文字としての月</h1>
         <div class="img-container">
           <img src="/works/img1.png" alt="work1" >
           <img src="/works/img2-1.png" alt="work1-2" style="margin-right: 20px;">

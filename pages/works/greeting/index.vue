@@ -1,7 +1,7 @@
 <template>
     <div class="">
-      <div class="main2 w-5/6 sm:w-3/6 md:w-1/3 xl:w-2/3 mx-auto">
-            <h1 class="text-xl pt-5 gap-20 text-center">数字の中の挨拶
+      <div class="main2 w-4/6  mx-auto">
+            <h1 class="text-xl pt-20 text-center">数字の中の挨拶
             </h1>
             <h3 class="text-1xl mt-4 text-center"></h3>
             <div class="img-container">
