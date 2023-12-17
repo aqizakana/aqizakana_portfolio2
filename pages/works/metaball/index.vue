@@ -9,7 +9,7 @@
           
               <img src="/works/madscientist.jpg" alt="work1" >
               <div class="flex justify-center">
-          <iframe class=" mx-auto h-80" src="/works/mad.mp4" title="video player" 
+          <iframe class=" mx-auto w-full h-auto" src="/works/mad.mp4" title="video player" 
           frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
           allowfullscreen></iframe>
               </div>

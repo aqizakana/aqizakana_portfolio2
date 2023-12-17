@@ -8,7 +8,7 @@
                 <img src="/works/NOVE/NOVE1.jpg" alt="work1" >
                 <img src="/works/NOVE/NOVE2.jpg" alt="work1" >
                 <div class="flex justify-center mt-5 mb-10">
-            <iframe class="mx-auto h-80 " src="/works/NOVE/NOVE3.mp4" title="video player" 
+            <iframe class="mx-auto w-full h-auto " src="/works/NOVE/NOVE3.mp4" title="video player" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
             allowfullscreen></iframe>
                 </div>
