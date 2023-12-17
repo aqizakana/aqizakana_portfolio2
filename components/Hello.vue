@@ -8,13 +8,13 @@
       flex-col xl:flex-row md:flex-row sm:flex-col xs:flex-col
       mx-auto Hello" 
       id="Hello">
-        <h1 class="xl:text-3xl md:text-2xl sm:text-2xl" id="Hello" >
+        <h1 class="xl:text-3xl md:text-2xl sm:text-2xl mx-auto" id="Hello" >
         Aqizakana
       </h1>
       <nuxt-img preload  
       src="/logo.png"
       alt="face-photo"
-      class="img xl:w-3/6 md:w-5/6 sm:w-3/6 w-4/6"
+      class="img xl:w-3/6 md:w-5/6 sm:w-3/6 w-4/6 mx-auto"
 
       />
     </div>

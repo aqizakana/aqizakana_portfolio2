@@ -2,7 +2,7 @@
   <div class="">
     <div class="w-5/6 " >
       <div class="main mt-0">
-        <h1 class="text-lg text-center pt-12">ABOUT</h1>
+        <h1 class="text-lg text-center pt-12 sm:pt-6">ABOUT</h1>
         <div class="flex 
         flex-col md:flex-row lg:flex-row xl:flex-row
         justify-center">

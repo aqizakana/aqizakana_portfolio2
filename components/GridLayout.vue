@@ -1,7 +1,7 @@
 <template>
     <div class="" id="GridLayout">
         <div class="w-4/6 md:w-4/6 sm:w-4/6 mx-auto" >
-        <div class="pt-36 pb-5 mx-auto">
+        <div class="pt-36 sm:pt-10 pb-5 mx-auto">
             <h1 class="text-center text-base ">WORKS</h1>
             <div class="main delay-75 mx-auto gap-3
              grid grid-cols-1 xl:grid-cols-3 md:grid-cols-2 place-content-center" 
