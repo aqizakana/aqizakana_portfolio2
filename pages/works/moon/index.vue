@@ -1,6 +1,6 @@
 <template>
     <div class="">
-      <div class="main2 w-5/6  mx-auto">
+      <div class="main2 w-4/6  mx-auto">
         <h1 class="text-xl  text-center pt-20">文字としての月</h1>
         <div class="img-container">
           <img src="/works/img1.png" alt="work1" >

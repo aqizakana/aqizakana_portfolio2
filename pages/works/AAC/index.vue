@@ -1,9 +1,9 @@
 <template>
     <div class="">
-      <div class="main2 w-5/6  mx-auto">
-            <h1 class="text-1xl pt-5 text-center">Akashi Art Center</h1>
+      <div class="main2 w-4/6  mx-auto">
+            <h1 class="text-1xl pt-20 text-center mx-auto">Akashi Art Center</h1>
             
-            <div class="img-container">
+            <div class="img-container mx-auto">
                 <img src="/works/卒研/パース.png" alt="work7" >
                 
                 <img src="/works/卒研/パース2.png" alt="work7" >
