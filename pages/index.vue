@@ -1,7 +1,7 @@
 <template>
   <div class="">
     <div class="main  mx-auto">
-        <Hello class="pt-24 shadow-sm w-5/6 mx-auto" id="Hello"/>
+        <Hello class="pt-24 shadow-sm w-4/6 mx-auto" id="Hello"/>
         <div class="vertical mx-auto" v-if="isShow">
           <p class="pt-36 pb-0 underline text-xs tracking-widest" v-if="isShow" :style="{ 'opacity': scrollOpacity}">
             <strong>scroll</strong>

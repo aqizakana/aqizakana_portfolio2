@@ -3,9 +3,9 @@
       <div class="main2 w-4/6  mx-auto">
             <h1 class="text-xl pt-20 text-center">Share the excitement
             </h1>
-            <h3 class="text-1xl mt-4 text-center"></h3>
-            <div class="img-container">
-                <img src="/works/最終確認.jpg" alt="work1" class="w-5/6 mx-auto">
+            
+            <div class="img-container mx-auto">
+                <img src="/works/最終確認.jpg" alt="work1" class="mx-auto">
             </div>
             
             <p class="my-5">
