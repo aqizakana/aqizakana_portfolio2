@@ -9,7 +9,7 @@
           <nuxt-img src="/portrate2.jpg" 
            alt="portrate"
            style=""
-           class="img w-3/5 invert-0 drop-shadow-md 
+           class="img w-2/5 sm:w-3/5 xs:w-3/5 invert-0 drop-shadow-md 
            snap-center rounded-2xl"
           />
           <div class="text-container">
