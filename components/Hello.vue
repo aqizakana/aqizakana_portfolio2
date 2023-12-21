@@ -14,7 +14,7 @@
       <nuxt-img preload  
       src="/logo.png"
       alt="face-photo"
-      class="img xl:w-3/6 md:w-5/6 sm:w-3/6 w-4/6 mx-auto"
+      class="img xl:w-3/6 md:w-4/6 sm:w-4/6  mx-auto"
 
       />
     </div>
