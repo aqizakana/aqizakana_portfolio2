@@ -17,7 +17,7 @@
           <h3 class="underline ">Web</h3>
           <p class=" text-xs w-full whitespace-normal overflow-hidden" >
             Nuxt.jsでのポートフォリオ、
-            Three.jsでのアート制作。<br>
+            Three.jsでの制作。<br>
             D3.jsやp5.jsに興味あり。
             <span></span><br>
             My portfolio site With Nuxt.js.
