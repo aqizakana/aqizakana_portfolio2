@@ -32,7 +32,7 @@
           <div class="text-container flex flex-col ">
             <h3 class="w-full underline ">Music</h3>
             <p class=" text-xs w-full">
-            DTMソフトを用いた作編曲。
+            DTMソフトを用いた作曲。
             <a class=" hover:text-[#D76F30]
             transition duration-150 ease-in-out" href="https://swater.bandcamp.com" target="blank">Bandcamp</a>で販売中。
             <span></span><br>
