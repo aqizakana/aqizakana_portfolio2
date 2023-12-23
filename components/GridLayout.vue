@@ -4,7 +4,7 @@
         <div class="pt-36 xs:pt-10 pb-5 mx-auto">
             <h1 class="text-center text-base ">WORKS</h1>
             <div class="main delay-75 mx-auto gap-3
-             grid grid-cols-1 xl:grid-cols-3 md:grid-cols-2 place-content-center  sepia hover:sepia-0" v-if=!isShow id="grid-layout">
+             grid grid-cols-1 xl:grid-cols-4 md:grid-cols-2 place-content-center  sepia hover:sepia-0" v-if=!isShow id="grid-layout">
         <NuxtLink class="work-focus border-none   rounded-2xl" id="work1" to="/works/moon">
            <nuxt-img preload src="/works/moon/img1.png" alt="work1" />
         </NuxtLink>
