@@ -4,8 +4,7 @@
         <div class="pt-36 xs:pt-10 pb-5 mx-auto">
             <h1 class="text-center text-base ">WORKS</h1>
             <div class="main delay-75 mx-auto gap-3
-             grid grid-cols-1 xl:grid-cols-3 md:grid-cols-2 place-content-center  sepia hover:sepia-0" 
-            v-if=!isShow id="grid-layout">
+             grid grid-cols-1 xl:grid-cols-3 md:grid-cols-2 place-content-center  sepia hover:sepia-0" v-if=!isShow id="grid-layout">
         <NuxtLink class="work-focus border-none   rounded-2xl" id="work1" to="/works/moon">
            <nuxt-img preload src="/works/moon/img1.png" alt="work1" />
         </NuxtLink>
@@ -65,8 +64,8 @@
         //box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.5); 
         opacity: 1.0;
         padding: 0%;
-        width:100%;
-        height:100%;
+        width:80%;
+        height:80%;
         object-fit: cover; /* Scale the image while maintaining its aspect ratio */
         position: center;
         filter:contrast(0.9); 
