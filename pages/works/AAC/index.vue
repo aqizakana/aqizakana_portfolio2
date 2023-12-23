@@ -3,11 +3,11 @@
       <div class="main2 w-4/6 sm:w-3/6 md:w-1/3 xl:w-1/3 mx-auto">
             <h1 class="text-1xl pt-20 text-center mx-auto">Akashi Art Center</h1>
             
-            <div class="img-container mx-auto">
-                <img src="/works/卒研/パース.png" alt="work7" >
+            <div class="img-container mt-5 mb-5 mx-auto">
+                <img src="/works/AAC/パース.png" alt="work7" >
                 
-                <img src="/works/卒研/パース2.png" alt="work7" >
-                <img src="/works/卒研/パース4.png" alt="work7" >
+                <img src="/works/AAC/パース2.png" alt="work7" >
+                <img src="/works/AAC/パース4.png" alt="work7" >
                 
             </div>
             <p class="my-5 text-xs">
@@ -31,9 +31,9 @@
                 その中間のエリアを交流の場としました。<br>
                 外構計画はマンション群で埋められている臨海部に公園を作るようなイメージで、<br>
                 北から南、西から東の動線計画としました。<br>
-                <img src="/works/卒研/2F平面図動線.png" alt="work7" class="mt-10 bg-gray-50 gap-10" >
-                <img src="/works/卒研/西棟断面図2.png" alt="work7" class="gap-10" >
-                <img src="/works/卒研/東棟断面図.png" alt="work7"  class="gap-10" >
+                <img src="/works/AAC/2F平面図動線.png" alt="work7" class="mt-10 bg-gray-50 gap-10" >
+                <img src="/works/AAC/西棟断面図2.png" alt="work7" class="gap-10" >
+                <img src="/works/AAC/東棟断面図.png" alt="work7"  class="gap-10" >
 
             </p>
             </div>

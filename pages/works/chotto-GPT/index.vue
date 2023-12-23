@@ -1,10 +1,10 @@
 <template>
   <div class="">
     <div class="main2 w-4/6 sm:w-3/6 md:w-1/3 xl:w-1/3 mx-auto">
-          <h1 class="text-xl pt-5 text-center">ちょっと!?GPT</h1>
+          <h1 class="text-xl pt-5 text-center pt-20">ちょっと!?GPT</h1>
           <h3 class="text-1xl mt-4 text-center"></h3>
           <div class="img-container">   
-          <img src="/works/画像1.png" alt="work4" >
+          <img src="/works/chotto-GPT/画像1.png" alt="work4" >
               
           
           </div>
@@ -23,7 +23,7 @@
               <p class="my-5 text-xs">
               <span class="red-text underline">Detail</span><br>
               <span class="img-container">  
-              <img src="/works/tukkomi.png" alt="work4" >
+              <img src="/works/chotto-GPT/tukkomi.png" alt="work4" >
               </span>
               サイトのデザインは以下のようなもので、受講者が各自で作成した記事をまとめ、
               ジャンル別にまとめています。各記事はタイトルと本文、Chat-GPTの<br>

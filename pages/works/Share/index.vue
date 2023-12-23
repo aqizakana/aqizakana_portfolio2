@@ -4,8 +4,8 @@
             <h1 class="text-xl pt-20 text-center">Share the excitement
             </h1>
             
-            <div class="img-container mx-auto">
-                <img src="/works/最終確認.jpg" alt="work1" class="w-5/6 mx-auto">
+            <div class="img-container mt-5 mb-5 mx-auto">
+                <img src="/works/Share/最終確認.jpg" alt="work1" class="w-5/6 mx-auto">
             </div>
             
             <p class="my-5">

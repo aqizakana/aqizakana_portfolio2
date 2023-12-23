@@ -2,10 +2,10 @@
     <div class="">
       <div class="main2 w-4/6 sm:w-3/6 md:w-1/3 xl:w-1/3 mx-auto">
         <h1 class="text-xl  text-center pt-20">文字としての月</h1>
-        <div class="img-container">
-          <img src="/works/img1.png" alt="work1" >
-          <img src="/works/img2-1.png" alt="work1-2" style="margin-right: 20px;">
-          <img src="/works/img2-2.png" alt="work1-3" style="margin-right: 20px;">
+        <div class="img-container mt-5 mb-5">
+          <img src="/works/moon/img1.png" alt="work1" >
+          <img src="/works/moon/img2-1.png" alt="work1-2">
+          <img src="/works/moon/img2-2.png" alt="work1-3">
         </div>
   
         <p class="my-5 my-link text-xs">

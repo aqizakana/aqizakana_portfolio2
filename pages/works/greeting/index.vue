@@ -7,8 +7,8 @@
             <div class="img-container">               
                 
                 <div class="flex justify-center mt-5 mb-5">
-            <iframe class="mx-auto w-full h-80" src="/works/23244001作品映像.mp4" title="YouTube video player" 
-            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            <iframe class="mx-auto w-screen h-80" src="/works/greeting/23244001映像.mp4" title=" video player" 
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;  web-share" 
             allowfullscreen></iframe>
                 </div>
 
@@ -19,7 +19,7 @@
               <span class="red-text underline ">Outline</span><br>
                 インタラクティブアート講義で制作した作品。<br>
                 コンセプトは「言語的意味の持たない数字を用いて意味のある言葉を象る」<br>
-                <NuxtLink class="after:content-['_↗'] hover:text-[#D76F30]
+                <NuxtLink class="hover:text-[#D76F30]
                   transition duration-150 ease-in-out" to="/works/moon">
             「文字としての月」</NuxtLink>では、本来意味がくっついている文字から意味を漂白することを<br>
             目的としていましたが、この作品では、意味の比重が小さい数字を用いて、<br>
@@ -49,6 +49,14 @@
     </div>
     </template>
     <script setup>
+    import { onMounted } from 'vue';
+
+onMounted(() => {
+  const video = document.getElementById('myVideo');
+  if (video) {
+    video.volume = 0.2; // Set the volume to 20%
+  }
+});
     useHead({
       title: 'greeting',
       meta: [
