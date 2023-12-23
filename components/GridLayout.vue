@@ -64,8 +64,8 @@
         //box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.5); 
         opacity: 1.0;
         padding: 0%;
-        width:80%;
-        height:80%;
+        width:100%;
+        height:100%;
         object-fit: cover; /* Scale the image while maintaining its aspect ratio */
         position: center;
         filter:contrast(0.9); 
