@@ -7,7 +7,7 @@
             <div class="img-container">               
                 
                 <div class="flex justify-center mt-5 mb-5">
-            <iframe class="mx-auto w-screen h-80" src="/works/greeting/23244001映像.mp4" title=" video player" 
+            <iframe class="mx-auto w-screen h-80" src="/works/greeting/23244001作品映像.mp4" title=" video player" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;  web-share" 
             allowfullscreen></iframe>
                 </div>
