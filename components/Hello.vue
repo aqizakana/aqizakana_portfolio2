@@ -1,79 +1,86 @@
 <template>
-    <div class="">
-      <div class="title 
-      
+  <div class="">
+    <div class="title 
       flex 
       justify-center
       w-6/6 
       flex-col xl:flex-row md:flex-row sm:flex-col xs:flex-col
       mx-auto Hello" 
-      id="Hello">
-        <h1 class="xl:text-3xl md:text-2xl sm:text-2xl mx-auto" id="Hello" >
+      id="Hello"
+    >
+      <h1 class="xl:text-3xl md:text-2xl sm:text-2xl mx-auto" id="Hello">
         Aqizakana
       </h1>
-      <nuxt-img preload  
-      src="/logo.png"
-      alt="face-photo"
-      class="img xl:w-3/6 md:w-4/6 sm:w-4/6  mx-auto"
+        <nuxt-img
+          
+          key="logo"
+          preload
+          src ='/logo.png' 
+          alt="face-photo"
+          class="img xl:w-3/6 sm:w-4/6 mx-auto"
+        />
 
-      />
     </div>
   </div>
-  
-  </template>
+</template>
+
 <script>
 export default {
-  data(){
-    return{
-      isShow: true,
-    }
+  data() {
+    return {
+      showContent:false,
+    };
   },
-  
-   mounted() {
+
+  mounted() {
     this.$nextTick(() => {
       setTimeout(() => {
-        this.isShow = false
-      }, 1500)
-    })
+        this.showContent = true;
+      }, 1500);
+    });
   },
-}
+};
 </script>
 
 <style lang="scss" scoped>
-  $Size:450px;
-  $mobileSizeS:900px;
-  $baseTextColor: rgb(255, 255, 91); // main color
+$Size: 450px;
+$mobileSizeS: 900px;
+$baseTextColor: rgb(255, 255, 91); // main color
 
-  .title{
-    //display:flex;
-    align-items: center;
-    justify-content: center;
-    //background-color:rgba(antiquewhite,0.2);
-    padding:0px,0px,0px,0px;
-    @media (min-width:1000px) { // Adjust the max-width as needed for your sm breakpoint
-    margin-left:10%;
-
-    }
-    
-    
+.title {
+  align-items: center;
+  justify-content: center;
+  padding: 0px, 0px, 0px, 0px;
+  @media (min-width: 1000px) {
+    margin-left: 10%;
   }
-  
+}
 
-h1{
-    color:antiquewhite;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    //background-color: antiquewhite; 
-    border-radius:1rem;
-    transition: 0.6 ease-in-out;
-    transform:scale(1)
+h1 {
+  color: antiquewhite;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 1rem;
+  transition: 0.6s ease-in-out;
+  transform: scale(1);
+}
 
-    }
 .black-bg {
- //color: antiquewhite !important;
-  background-color:rgba(black,0.0); 
+  background-color: rgba(black, 0.0);
   transition-duration: 1s;
 }
-  </style>
-  
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 1.5s;
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+.img{
+  transition: 2.0s ease-in-out;
+}
+</style>
