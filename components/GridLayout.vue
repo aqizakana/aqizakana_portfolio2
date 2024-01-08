@@ -12,9 +12,7 @@
         <NuxtLink class="work-focus border-none   rounded-2xl" id="work2" to="/works/metaball">
             <nuxt-img preload src="/works/metaball/madscientist.jpg" alt="work2"  />
         </NuxtLink>
-        //<NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work8" to="/works/design_concept">
-          //  <nuxt-img preload src="/works/design_concept/影.png" alt="work9" />  
-        //</NuxtLink>
+        
         <NuxtLink class="work-focus border-none   rounded-2xl" id="work4" to="/works/greeting">
             <nuxt-img preload src="/works/greeting/LOVE.png" alt="work4" />  
         </NuxtLink>
