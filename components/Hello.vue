@@ -8,9 +8,11 @@
       mx-auto Hello" 
       id="Hello"
     >
+      <nuxt-link to="/works/design_concept">
       <h1 class="xl:text-3xl md:text-2xl sm:text-2xl mx-auto" id="Hello">
         Aqizakana
       </h1>
+    </nuxt-link>
         <nuxt-img
           
           key="logo"
