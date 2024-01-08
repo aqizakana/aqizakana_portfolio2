@@ -1,6 +1,6 @@
 <template>
     <div class="my-footer" v-if=isShow> 
-    <p class="text-center text-xs">©ShinnosukeUota</p>
+    <p class="text-center text-xs">ShinnosukeUota</p>
     </div>
   
   </template>
