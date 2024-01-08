@@ -1,6 +1,6 @@
 <template>
     <div class="" id="GridLayout">
-        <div class="w-4/6 md:w-4/6 sm:w-4/6 mx-auto" >
+        <div class="w-3/6 sm:w-4/6 mx-auto" >
         <div class="pt-36 xs:pt-10 pb-5 mx-auto">
             <h1 class="text-center text-base ">WORKS</h1>
             <div class="main delay-75 mx-auto gap-3
