@@ -28,7 +28,7 @@
           記事上では様々可視化方法を利用しました。<br>
           例えば、作品ごとの起用数の大小関係がわかりやすいように以下のようなグラフを用いたり、<br>
           <img src="/works/YouTube-DataViz/img1.png" alt="work1-2">
-            また、作品ごとのCMの再生回数を比較するために以下のようなツリーマップを用いたりしました。<br>
+            また、各CMの再生回数を比較するために以下のようなツリーマップを用いたりしました。<br>
             <img src="/works/YouTube-DataViz/img2png" alt="work1-3">
           </p>
         
