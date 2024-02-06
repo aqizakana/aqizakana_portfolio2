@@ -3,7 +3,7 @@
       <div class="main2 w-4/6 sm:w-3/6 md:w-1/3 xl:w-1/3 mx-auto">
         <h1 class="text-xl  text-center pt-20">2023年のYouTubeの広告塔キャラ</h1>
         <div class="img-container mt-5 mb-5">
-          <img src="/works/Youtube-DataViz/idol.png" />
+          <img src="/works/YouTube-DataViz/idol.png" />
   
         </div>
   
@@ -29,7 +29,7 @@
           例えば、作品ごとの起用数の大小関係がわかりやすいように以下のようなグラフを用いたり、<br>
           <img src="/works/YouTube-DataViz/img1.png" alt="work1-2" />
             また、各CMの再生回数を比較するために以下のようなツリーマップを用いたりしました。<br>
-            <img src="/works/YouTube-DataViz/img2png" alt="work1-3" />
+            <img src="/works/YouTube-DataViz/img2.png" alt="work1-3" />
           </p>
         
          
