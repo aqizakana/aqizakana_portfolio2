@@ -17,7 +17,7 @@
             <nuxt-img preload src="/works/greeting/LOVE.png" alt="work3" />  
         </NuxtLink>
         <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work5" to="/works/YouTube-DataViz">
-            <nuxt-img preload src="/works/YouTube-DataViz/idol.png" alt="work4" />  
+            <nuxt-img preload src="/works/Youtube-DataViz/idol.png" alt="work4" />  
         </NuxtLink>
         <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work5" to="/works/Share">
             <nuxt-img preload src="/works/Share/最終確認2.jpg" alt="work5" />  

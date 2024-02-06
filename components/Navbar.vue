@@ -3,7 +3,7 @@
       <div class="inner">
         <NuxtLink to="/">
           <h3 class="logo text-sm">
-            Aqizakana
+            UoTA
           </h3>
         </NuxtLink>
         <div id="nav-toggle">
