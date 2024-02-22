@@ -5,39 +5,52 @@
             <h1 class="text-center text-base ">WORKS</h1>
             <div class="main delay-75 mx-auto gap-3
              grid grid-cols-1 xl:grid-cols-3 md:grid-cols-2 place-content-center  sepia hover:sepia-0" v-if=!isShow id="grid-layout">
-        <NuxtLink class="work-focus border-none   rounded-2xl" id="work1" to="/works/moon">
-           <nuxt-img preload src="/works/moon/img1.png" alt="work1" />
-        </NuxtLink>
-      
-        <NuxtLink class="work-focus border-none   rounded-2xl" id="work2" to="/works/metaball">
-            <nuxt-img preload src="/works/metaball/madscientist.jpg" alt="work2"  />
-        </NuxtLink>
+             
+                <div class = "DataViz" :style="{backgroundColor:'#FAF0DC'}">
+                    <NuxtLink class="work-focus border-none   hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="DataViz" to="/works/YouTube-DataViz">
+                        <nuxt-img preload src="/works/Youtube-DataViz/idol.png" alt="work4" />  
+                    </NuxtLink>
+                </div>
+
+                <div class = "Interactive" :style="{backgroundColor:'#FAF0DC'}">
+                    <NuxtLink class="work-focus border-none    rounded-2xl" id="Interactive" to="/works/NOVE">
+                        <nuxt-img preload src="/works/NOVE/NOVE2.jpg" alt="work6" />  
+                    </NuxtLink>
+                    <NuxtLink class="work-focus border-none Interactive  rounded-2xl" id="Interactive" to="/works/metaball">
+                        <nuxt-img preload src="/works/metaball/madscientist.jpg" alt="work2"  />
+                    </NuxtLink>
+                    
+                    <NuxtLink class="work-focus border-none   rounded-2xl" id="Interactive" to="/works/greeting">
+                        <nuxt-img preload src="/works/greeting/LOVE.png" alt="work3" />  
+                    </NuxtLink>
+                </div>
+                
+                <div class = "graphic" :style="{backgroundColor:'#FAF0DC'}">
+                    <NuxtLink class="work-focus border-none   hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="graphic" to="/works/Share">
+                        <nuxt-img preload src="/works/Share/最終確認2.jpg" alt="work5" />  
+                    </NuxtLink>
+
+                    <NuxtLink class="work-focus border-none   rounded-2xl" id="graphic" to="/works/moon">
+                        <nuxt-img preload src="/works/moon/img1.png" alt="work1" />
+                    </NuxtLink>
+                </div>
+                
+                <div class = "Architecture" :style="{backgroundColor:'#FAF0DC'}">
+                    <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="Architecture" to="/works/AAC">
+                        <nuxt-img preload src="/works/AAC/パース6.png" alt="work7" />  
+                    </NuxtLink>
+
+                    <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="Architecture" to="/works/tyashitsu1">
+                        <nuxt-img preload src="/works/tyashitsu1/正面.png" alt="work8" />  
+                    </NuxtLink>
+
+                    <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="Architecture" to="/works/tyashitsu2">
+                        <nuxt-img preload src="/works/tyashitsu2/構内茶室.png" alt="work9" />  
+                    </NuxtLink>
+                </div>        
         
-        <NuxtLink class="work-focus border-none   rounded-2xl" id="work4" to="/works/greeting">
-            <nuxt-img preload src="/works/greeting/LOVE.png" alt="work3" />  
-        </NuxtLink>
-        <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work5" to="/works/YouTube-DataViz">
-            <nuxt-img preload src="/works/Youtube-DataViz/idol.png" alt="work4" />  
-        </NuxtLink>
-        <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work5" to="/works/Share">
-            <nuxt-img preload src="/works/Share/最終確認2.jpg" alt="work5" />  
-        </NuxtLink>
-        <NuxtLink class="work-focus border-none   rounded-2xl" id="work3" to="/works/NOVE">
-            <nuxt-img preload src="/works/NOVE/NOVE2.jpg" alt="work6" />  
-        </NuxtLink>
-        <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work8" to="/works/AAC">
-            <nuxt-img preload src="/works/AAC/パース6.png" alt="work7" />  
-        </NuxtLink>
-        <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work8" to="/works/tyashitsu1">
-            <nuxt-img preload src="/works/tyashitsu1/正面.png" alt="work8" />  
-        </NuxtLink>
-        <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work8" to="/works/tyashitsu2">
-            <nuxt-img preload src="/works/tyashitsu2/構内茶室.png" alt="work9" />  
-        </NuxtLink>
-        
-        
-    </div>   
-    </div> 
+             </div>   
+        </div> 
     </div>
 </div>
     
