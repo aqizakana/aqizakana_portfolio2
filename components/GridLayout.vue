@@ -22,9 +22,7 @@
         <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work5" to="/works/Share">
             <nuxt-img preload src="/works/Share/最終確認2.jpg" alt="work5" />  
         </NuxtLink>
-        <NuxtLink class="work-focus border-none   rounded-2xl" id="work3" to="/works/NOVE">
-            <nuxt-img preload src="/works/NOVE/NOVE2.jpg" alt="work6" />  
-        </NuxtLink>
+    
         <NuxtLink class="work-focus border-none  hover:border-dotted border-5 border-[#D76F30] rounded-2xl" id="work8" to="/works/AAC">
             <nuxt-img preload src="/works/AAC/パース6.png" alt="work7" />  
         </NuxtLink>
